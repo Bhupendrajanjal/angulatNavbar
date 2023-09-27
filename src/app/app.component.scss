@@ -1,0 +1,47 @@
+h1{
+    background-color: orange;
+    padding: 20px 20px;
+    margin-top: 10px;
+  
+}
+
+.col-md-3{
+    // background-color: orange;
+}
+.col-md-9{
+    // background-color: orange;
+}
+ul{
+    list-style: none;
+}
+.navbar ul li a{
+    text-decoration: none;
+}
+.navbar ul li,.navbar ul{
+    // background-color: blueviolet;
+    display: inline-block;
+}
+.navbar{
+    text-align: right;
+    padding: 20px 20px;
+}
+.navbar ul li{
+    padding: 20px;
+   margin: 20px;
+}
+.navbar ul li a{
+    color: black;   
+}
+
+.navbar ul li:hover{
+    background-color: aqua;
+    
+}
+
+a.logo{
+    width: 150px;
+    display: inline-block;
+}
+.logo img{
+    width: 100%;
+}
